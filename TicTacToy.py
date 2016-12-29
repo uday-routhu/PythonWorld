@@ -1,7 +1,5 @@
 '''
-Created on Dec 20, 2016
-
-@author: uday
+@author: codemonkey143
 '''
 from Tkinter import *
 from tkMessageBox import *
